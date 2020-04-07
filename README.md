@@ -23,3 +23,11 @@ the library by logistics experts): the signup process for a library can start on
 The libraries can be signed up in any order.
 Books in a library can be scanned as soon as the signup process for that library completes (that is, on the first day immediately
 after the signup process, see the figure below). Books can be scanned in parallel from multiple libraries.
+
+## Usage
+
+```python
+
+python3 main.py inputs/[filename]
+```
+
